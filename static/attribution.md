@@ -11,7 +11,9 @@ Powered by TfL Open Data. Contains OS data © Crown copyright and database right
 
 ### National Rail - [Full terms](https://www.nationalrail.co.uk/100296.aspx) (https://www.nationalrail.co.uk/100296.aspx)
 
-National Rail requires attribution via an image. Please see the full terms for details.
+Powered by National Rail Enquiries.
+
+National Rail has some explicit guidelines for attribution. Please see the full terms for details.
 
 ### Bus Open Data Service / BODS - [Full terms](https://data.bus-data.dft.gov.uk/guidance/requirements/) (https://data.bus-data.dft.gov.uk/guidance/requirements/)
 
